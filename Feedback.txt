@@ -1,0 +1,4 @@
+Agregar contexto.
+Desarrollar sistema de puntuacion.
+Agregar ambiente similar a jackass.
+
